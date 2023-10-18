@@ -5,9 +5,9 @@ import (
 	"os"
 	"time"
 
-	"github.com/felipezschornack/multithreading/api/apicep"
-	"github.com/felipezschornack/multithreading/api/viacep"
-	"github.com/felipezschornack/multithreading/util"
+	"github.com/felipezschornack/golang-api-multithreading/internal/backend/remote/apicep"
+	"github.com/felipezschornack/golang-api-multithreading/internal/backend/remote/viacep"
+	"github.com/felipezschornack/golang-api-multithreading/internal/util"
 )
 
 func main() {

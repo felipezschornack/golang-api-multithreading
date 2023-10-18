@@ -1,3 +1,3 @@
-module github.com/felipezschornack/multithreading/util
+module github.com/felipezschornack/golang-api-multithreading/internal/util
 
 go 1.21.1
